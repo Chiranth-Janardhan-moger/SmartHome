@@ -6,7 +6,6 @@ A complete smart home automation system built using ESP32 and a Python Flask web
 - `Main.ino`: Arduino sketch that controls sensors and modules (e.g., DHT, WiFi).
 - `app.py`: Python Flask app for the web dashboard.
 - `templates/`: HTML files for the frontend.
-- `static/img/`: Icons and images used in the dashboard.
 
 ## 🔌 Required Arduino Libraries
 
