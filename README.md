@@ -28,7 +28,7 @@ Make sure to install these libraries in your Arduino IDE:
      ```bash
      python app.py
      ```
-   - Open `http://localhost:5000` in your browser.
+   - Open `http://localhost:8000` in your browser.
 
 ## 🌐 Web Dashboard Features
 
